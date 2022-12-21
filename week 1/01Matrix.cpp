@@ -1,5 +1,9 @@
-    #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
+/*
+Question is to find distance of nearest 0 for each cell
+*/
 
 class Solution
 {

@@ -1,9 +1,12 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-// In this problem, we will have created a hash map, which will store all the values that are in array
-// Now for each iteration, we will check that complement of array element,i.e., target-nums[i], exist in hashmap, 
-// if yes, we will give it as a result. Otherwise, we will push the array element in the hash map and 
+// In this problem, we will have created a hash map, 
+// which will store all the values that are in array
+// Now for each iteration, 
+// we will check that complement of array element,i.e., target-nums[i], exist in hashmap, 
+// if yes, we will give it as a result. 
+// Otherwise, we will push the array element in the hash map and 
 // move to the next element 
 
 class Solution
